@@ -16,7 +16,8 @@ A smart and automated traffic management system integrating **ANPR** (Automatic 
 
 ---
 ## System Architecture
-![alt text](system_achitecture.png)
+
+![alt text](system_architecture.png)
 
 ---
 
