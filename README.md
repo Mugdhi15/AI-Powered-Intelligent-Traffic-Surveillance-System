@@ -15,6 +15,10 @@ A smart and automated traffic management system integrating **ANPR** (Automatic 
 - **Dashboard:** Video upload, search by plate, vehicle database  
 
 ---
+## System Architecture
+![alt text](system_achitecture.png)
+
+---
 
 ## 🛠️ Tools & Technologies  
 
